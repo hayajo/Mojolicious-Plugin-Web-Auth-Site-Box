@@ -1,0 +1,4 @@
+name = "Mojolicious-Plugin-Web-Auth-Site-Box"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
